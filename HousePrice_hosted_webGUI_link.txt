@@ -1,0 +1,11 @@
+1. Name: Araoluwa Akinyemi
+
+2. Matric Number: 23CG034032
+
+3. Machine Learning Algorithm Used: Random Forest
+
+4. Model persistence method used: Pickle
+
+5. Live URL of the hosted application: https://house-price-prediction-0lqp.onrender.com
+
+6. GitHub repository link: https://github.com/arakinyemi/house-price-prediction
